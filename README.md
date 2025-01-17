@@ -2,7 +2,9 @@
 
 ### I'm currently working at ...
 
-Djange
+Django Python
+
+![백준티어]()
 
 <!--
 **MinsikPark7895/MinsikPark7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
